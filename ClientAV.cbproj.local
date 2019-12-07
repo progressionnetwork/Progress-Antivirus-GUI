@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/27 16:48:36.000.448,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/02/27 16:48:36.000.405,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/02/27 16:56:56.000.525,C:\Users\pc\Documents\ProgressAV\Unit1.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/02/27 16:56:56.000.525,C:\Users\pc\Documents\ProgressAV\Unit1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/02/27 16:56:56.000.525,C:\Users\pc\Documents\ProgressAV\Unit1.dfm=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/02/27 16:57:20.000.992,C:\Users\pc\Documents\ProgressAV\ProgressPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/02/27 16:57:34.000.500,C:\Users\pc\Documents\ProgressAV\ClientAV.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2018/03/02 02:49:02.000.421,=Z:\temp\c++builder rad\ProgressAV\UI_White\Unit2.cpp</Transaction>
+    <Transaction>2018/03/12 03:07:09.000.338,=Z:\temp\c++builder rad\ProgressAV\UI_White\Unit3.cpp</Transaction>
+    <Transaction>2018/03/13 01:00:01.000.387,=Z:\temp\c++builder rad\ProgressUI\Unit4.cpp</Transaction>
+    <Transaction>2018/03/16 01:26:32.000.682,=Z:\temp\c++builder rad\ProgressUI\File1.h</Transaction>
+    <Transaction>2018/03/16 01:26:44.000.758,Z:\temp\c++builder rad\ProgressUI\File1.h=Z:\temp\c++builder rad\ProgressUI\booldefines.h</Transaction>
+  </Transactions>
+</BorlandProject>
